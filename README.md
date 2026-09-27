@@ -23,6 +23,7 @@ cp -R skills/. ~/.agents/skills/
 - `building-native-ui`
 - `code-review`
 - `codebase-design`
+- `documentation-standard`
 - `expo-app-design`
 - `expo-architect`
 - `expo-liquid-glass`
