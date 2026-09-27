@@ -1,6 +1,6 @@
 ---
 name: documentation-standard
-description: Use when writing or reviewing project documentation: decision records, ticket notes, handoffs, completion records, research notes, or glossaries. Keep decisions and evidence concise, linked, and easy to review across projects.
+description: "Use when writing or reviewing project documentation: decision records, ticket notes, handoffs, completion records, research notes, or glossaries. Keep decisions and evidence concise, linked, and easy to review across projects."
 ---
 
 # Documentation standard
